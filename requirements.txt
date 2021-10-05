@@ -1,4 +1,4 @@
 gym
 tqdm
 jupyter==1.0.0
-maptplotlib
+matplotlib
